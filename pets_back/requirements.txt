@@ -1,0 +1,13 @@
+django
+djangorestframework
+
+django-filter
+
+django-cors-headers
+django_extensions
+psycopg2
+
+dj-database-url
+djangorestframework-simplejwt
+Pillow
+drf-yasg
